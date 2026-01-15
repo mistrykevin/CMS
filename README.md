@@ -71,8 +71,5 @@ crm-enterprise-system/
 ├── .gitignore
 └── README.md
 
-## Author
-
-**Kevin Mistry**  
 Full Stack / MERN Developer  
 UI/UX & Enterprise Application Design 
