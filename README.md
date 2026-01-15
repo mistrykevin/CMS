@@ -71,5 +71,5 @@ crm-enterprise-system/
 ├── .gitignore
 └── README.md
 
-Full Stack / MERN Developer  
+Full Stack/MERN Developer  
 UI/UX & Enterprise Application Design 
